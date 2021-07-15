@@ -251,7 +251,7 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     onlyAllowOrigins: [
-      'https://digihymnal-api.herokuapp.com/'
+      'https://digihymnal-api.herokuapp.com'
     ],
 
 
